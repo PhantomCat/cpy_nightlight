@@ -10,5 +10,5 @@ All you need is:
 ## YD-RP2040
 
 This plate has W2812 onboard, so you just need to solder or connect any other way 2 contacts above onboard LED
-[YD-RP2040 plate](YD-RP2040/images/plate.png)
+![YD-RP2040 plate](YD-RP2040/images/plate.png)
 W2812 LED already connected to GP23 port, so you don't need to do anything at first.
